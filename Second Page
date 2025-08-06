@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enroll Now</title>
+    <style>
+        body{
+            background-color: brown;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <center>
+            <h1>Error Makes Clever Academy🚀</h1>
+        </center>
+    </header>
+    <main>
+        <section>
+            <center>
+                <h5>Training|Tech news|Freshers Guide</h5>
+                <p>Empowering young developer to level up their skills through training in software development technologies.</p>
+            </center>
+        </section>
+        <hr>
+        <center>
+            <h2>Registration Form</h2>
+            <table>
+                <form action="https://httpbin.org/get" method="get">
+                    <tr>
+                        <td>
+                            Name:
+                        </td>
+                        <td>
+                            <input type="text" name="Name" id="Name">
+                        <td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Age:
+                        </td>
+                        <td>
+                            <input type="number" name="Age" id="Age">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Gender:
+                        </td>
+                        <td>
+                            <input type="radio" name="Gender" id="Gender">
+                            <label for="Gender">Male</label>
+                            <input type="radio" name="Gender" id="Gender">
+                            <label for="Gender">Female</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Email:
+                        </td>
+                        <td>
+                            <input type="text" name="Mail" id="Mail">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Select a course:
+                        </td>
+                        <td>
+                            <select name="Course" id="Course">
+                                <option value="Full Stack Development">Full stack Development</option>
+                                <option value="Back end developer">Python</option>
+                                <option value="Database Management">SQL</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Upload Your Resume:
+                        </td>
+                        <td>
+                            <input type="file" name="Resume" id="Resume">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="reset">
+                            <input type="submit">
+                        </td>
+                    </tr>
+                </form>
+            </table>
+        </center>
+        <hr>
+    <footer>
+        <center>
+            <a href="first.html">Home |</a>
+            <a href="www.instagram.com">Instagram</a>
+            <a href="www.youtube.com">Youtube</a>
+        </center>
+    </footer>
+
+</body>
+</html>

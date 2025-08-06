@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMC</title>
+    <link rel="icon" href="EMC Web Page HTML Project/starter/emc.png">
+    <style>
+        body{
+            background-color: skyblue;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <center>
+            <h1>Error Makes Clever Academy🚀</h1>
+        </center>
+    </header>
+    <main>
+        <center>
+            <h5>Training|Tech news|Freshers Guide</h5>
+            <p>Empowering young developer to level up their skills through training in software development technologies.</p>
+            <hr>
+            <iframe width="400" height="315" src="https://www.youtube.com/embed/FYErehuSuuw?si=XyyqxipngbrxBKd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis temporibus eveniet illum ipsa reiciendis laboriosam quidem, praesentium nisi vel corrupti repellendus esse itaque quod voluptates. Molestias reiciendis perspiciatis quam Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et tempora facilis accusantium quia, amet aut quisquam ipsum est eius sequi perspiciatis autem accusamus consequuntur. Eveniet numquam deserunt expedita distinctio sequi eos, accusantium modi eius ea dolore, provident minima iure? Magnam pariatur omnis incidunt dolorem obcaecati nostrum perspiciatis! Delectus, quaerat ipsum.
+        </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, rerum vitae! Accusamus placeat eum, dicta voluptatem aperiam quae expedita, pariatur magni natus officia odio facilis rem officiis aliquid itaque quia?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, voluptates at ex autem dignissimos unde maxime libero quibusdam temporibus hic, nulla vel adipisci itaque neque, optio repudiandae dicta molestiae. Voluptatum earum molestias praesentium. Fuga quaerat, soluta consequuntur rerum accusantium sit fugit animi, autem, impedit minus repudiandae enim perferendis eligendi tempore!</p>
+        <section>
+            <h2>Lets divide Full stack into three parts</h2>
+            <ul>
+                <li>Frontend</li>
+                <li>Backend</li>
+                <li>Database</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Technologies used for Fullstack webdevelopment</h2>
+            <div>
+                <table border="1">
+                    <tr>
+                        <td>FrontEnd</td><td>Backend</td><td>Database</td>
+                    </tr>
+                    <tr>
+                        <td>HTML</td><td>Java</td><td>MongoDB</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td><td>Python</td>
+                        <td>MY SQL</td>
+                    </tr>
+                    <tr>
+                        <td>Javascript</td><td>NodeJS</td><td>AWS</td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+        <hr>
+    </main>
+    <footer>
+        <center>
+            <a href="second.html">Enroll now |</a>
+            <a href="https://www.instagram.com/">Instagram |</a>
+            <a href="https://www.youtube.com/?gl=IN">Youtube |</a>
+        </center>
+    </footer>
+    
+</body>
+</html>
